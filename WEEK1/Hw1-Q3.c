@@ -13,6 +13,7 @@ Home value is: 1290000
 #include <math.h>
 
 
+
 int main( void ) 
 {
 	int homeValue ;
