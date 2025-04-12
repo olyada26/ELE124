@@ -1,9 +1,9 @@
 /*
--> kaç ögrencinin verisi girilecegini seç +
--> kisi özelinde ortlama hesapla +
--> midterm ortalamasi hesapla +
--> final ortalamasi hesapla +
--> ikisinin toplam  agirlikli ortalamasini hesapla +
+-> enter the student number
+-> calculate average fro each student 
+-> calculate mideterm average
+-> calculate final average
+-> calculate weighted average of the two
 */
 
 

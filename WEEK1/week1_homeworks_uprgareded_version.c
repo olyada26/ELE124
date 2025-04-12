@@ -1,4 +1,4 @@
-//4 uzerinden not ne, harf notu
+//what is the grade out of 4, calculate letter grade
 #include <stdio.h>
 #define FINALS_RATE 0.6 
 #define MIDTERMS_RATE 0.4 
